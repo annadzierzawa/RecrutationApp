@@ -1,0 +1,47 @@
+POST http://localhost:5000/company/create HTTP/1.1
+Authorization: Basic user:user
+Content-Type: application/json
+
+{
+"Name": "FirmaCzwarta",
+"EstablishmentYear": 2019,
+"Employees": [{
+    "FirstName": "Tomek",
+    "LastName": "Podkowa",
+    "DateOfBirth": "2002-09-01T22:00:00",
+    "JobTitle": "Developer"
+}]
+}
+
+###
+POST http://localhost:5000/company/search HTTP/1.1
+Content-Type: application/json
+
+{
+    "Keyword":"dupa",
+    "EmployeeJobTitles":["Developer"],
+    "EmployeeDateOfBirthTo":"2000-09-01T22:00:00",
+    "EmployeeDateOfBirthFrom":"1999-09-01T22:00:00"
+
+}
+
+###
+DELETE http://localhost:5000/company/delete/1  HTTP/1.1
+Authorization: Basic user:user
+Content-Type: application/json
+
+###
+PUT http://localhost:5000/company/update/2 HTTP/1.1
+Authorization: Basic user:user
+Content-Type: application/json
+
+{
+"Name": "Firma4",
+"EstablishmentYear": 2007,
+"Employees": [{
+    "FirstName": "Tomek",
+    "LastName": "Kowalski2",
+    "DateOfBirth": "1070-09-01T22:00:00",
+    "JobTitle": "Developer"
+}]
+}

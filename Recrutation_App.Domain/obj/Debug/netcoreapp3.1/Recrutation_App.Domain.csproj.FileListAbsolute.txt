@@ -1,0 +1,16 @@
+D:\Pumox\Pumox_App.Domain\bin\Debug\netcoreapp3.1\Recrutation_App.Domain.deps.json
+D:\Pumox\Pumox_App.Domain\bin\Debug\netcoreapp3.1\Recrutation_App.Domain.dll
+D:\Pumox\Pumox_App.Domain\bin\Debug\netcoreapp3.1\Recrutation_App.Domain.pdb
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.csprojAssemblyReference.cache
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.AssemblyInfoInputs.cache
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.AssemblyInfo.cs
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.dll
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.pdb
+D:\RecrutationApp\Recrutation_App.Domain\bin\Debug\netcoreapp3.1\Recrutation_App.Domain.deps.json
+D:\RecrutationApp\Recrutation_App.Domain\bin\Debug\netcoreapp3.1\Recrutation_App.Domain.dll
+D:\RecrutationApp\Recrutation_App.Domain\bin\Debug\netcoreapp3.1\Recrutation_App.Domain.pdb
+D:\RecrutationApp\Recrutation_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.csprojAssemblyReference.cache
+D:\RecrutationApp\Recrutation_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.AssemblyInfoInputs.cache
+D:\RecrutationApp\Recrutation_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.AssemblyInfo.cs
+D:\RecrutationApp\Recrutation_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.dll
+D:\RecrutationApp\Recrutation_App.Domain\obj\Debug\netcoreapp3.1\Recrutation_App.Domain.pdb

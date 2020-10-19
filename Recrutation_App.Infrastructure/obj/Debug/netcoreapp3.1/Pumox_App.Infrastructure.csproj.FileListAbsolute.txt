@@ -1,0 +1,15 @@
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Infrastructure.deps.json
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Infrastructure.dll
+D:\Pumox\Pumox_App.Infrastructure\obj\Debug\netcoreapp3.1\Pumox_App.Infrastructure.csprojAssemblyReference.cache
+D:\Pumox\Pumox_App.Infrastructure\obj\Debug\netcoreapp3.1\Pumox_App.Infrastructure.AssemblyInfoInputs.cache
+D:\Pumox\Pumox_App.Infrastructure\obj\Debug\netcoreapp3.1\Pumox_App.Infrastructure.AssemblyInfo.cs
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Infrastructure.pdb
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Domain.dll
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Domain.pdb
+D:\Pumox\Pumox_App.Infrastructure\obj\Debug\netcoreapp3.1\Pumox_App.Infrastructure.csproj.CopyComplete
+D:\Pumox\Pumox_App.Infrastructure\obj\Debug\netcoreapp3.1\Pumox_App.Infrastructure.dll
+D:\Pumox\Pumox_App.Infrastructure\obj\Debug\netcoreapp3.1\Pumox_App.Infrastructure.pdb
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Infrastructure.runtimeconfig.json
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Infrastructure.runtimeconfig.dev.json
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Application.dll
+D:\Pumox\Pumox_App.Infrastructure\bin\Debug\netcoreapp3.1\Pumox_App.Application.pdb

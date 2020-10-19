@@ -1,0 +1,8 @@
+D:\Pumox\Pumox_App.Domain\bin\Debug\netcoreapp3.1\Pumox_App.Domain.deps.json
+D:\Pumox\Pumox_App.Domain\bin\Debug\netcoreapp3.1\Pumox_App.Domain.dll
+D:\Pumox\Pumox_App.Domain\bin\Debug\netcoreapp3.1\Pumox_App.Domain.pdb
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Pumox_App.Domain.csprojAssemblyReference.cache
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Pumox_App.Domain.AssemblyInfoInputs.cache
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Pumox_App.Domain.AssemblyInfo.cs
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Pumox_App.Domain.dll
+D:\Pumox\Pumox_App.Domain\obj\Debug\netcoreapp3.1\Pumox_App.Domain.pdb

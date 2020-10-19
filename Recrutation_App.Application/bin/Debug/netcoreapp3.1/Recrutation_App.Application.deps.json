@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Recrutation_App.Application/1.0.0": {
+        "dependencies": {
+          "Recrutation_App.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Recrutation_App.Application.dll": {}
+        }
+      },
+      "Recrutation_App.Domain/1.0.0": {
+        "runtime": {
+          "Recrutation_App.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recrutation_App.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Recrutation_App.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
